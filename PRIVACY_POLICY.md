@@ -1,0 +1,1 @@
+# Wordle Classic Privacy Policy

@@ -55,6 +55,7 @@ Your consent to this Privacy Policy followed by Your submission of such informat
 The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
 
 ### Disclosure of Your Personal Data
+
 #### Business Transactions
 If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
@@ -156,6 +157,7 @@ You have the right under this Privacy Policy, and by law if You are within the E
 * Request erasure of Your Personal Data. You have the right to ask Us to delete or remove Personal Data when there is no good reason for Us to continue processing it.
 * Request the transfer of Your Personal Data. We will provide to You, or to a third-party You have chosen, Your Personal Data in a structured, commonly used, machine-readable format. Please note that this right only applies to automated information which You initially provided consent for Us to use or where We used the information to perform a contract with You.
 * Withdraw Your consent. You have the right to withdraw Your consent on using your Personal Data. If You withdraw Your consent, We may not be able to provide You with access to certain specific functionalities of the Service.
+
 ### Exercising of Your GDPR Data Protection Rights
 You may exercise Your rights of access, rectification, cancellation and opposition by contacting Us. Please note that we may ask You to verify Your identity before responding to such requests. If You make a request, We will try our best to respond to You as soon as possible.
 
@@ -168,6 +170,7 @@ We obtain the categories of personal information listed above from the following
 * Indirectly from You. For example, from observing Your activity on our Service.
 * Automatically from You. For example, through cookies We or our Service Providers set on Your Device as You navigate through our Service.
 * From Service Providers. For example, third-party vendors to monitor and analyze the use of our Service, third-party vendors to deliver targeted advertising to You, third-party vendors for payment processing, or other third-party vendors that We use to provide the Service to You.
+
 ### Use of Personal Information for Business Purposes or Commercial Purposes
 We may use or disclose personal information We collect for "business purposes" or "commercial purposes" (as defined under the CCPA), which may include the following examples:
 
@@ -181,29 +184,6 @@ We may use or disclose personal information We collect for "business purposes" o
 Please note that the examples provided above are illustrative and not intended to be exhaustive. For more details on how we use this information, please refer to the "Use of Your Personal Data" section.
 
 If We decide to collect additional categories of personal information or use the personal information We collected for materially different, unrelated, or incompatible purposes We will update this Privacy Policy.
-
-### Disclosure of Personal Information for Business Purposes or Commercial Purposes
-We may use or disclose and may have used or disclosed in the last twelve (12) months the following categories of personal information for business or commercial purposes:
-
-* Category A: Identifiers
-* Category B: Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))
-* Category D: Commercial information
-* Category F: Internet or other similar network activity
-Please note that the categories listed above are those defined in the CCPA. This does not mean that all examples of that category of personal information were in fact disclosed, but reflects our good faith belief to the best of our knowledge that some of that information from the applicable category may be and may have been disclosed.
-
-When We disclose personal information for a business purpose or a commercial purpose, We enter a contract that describes the purpose and requires the recipient to both keep that personal information confidential and not use it for any purpose except performing the contract.
-
-### Sale of Personal Information
-As defined in the CCPA, "sell" and "sale" mean selling, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a consumer's personal information by the business to a third party for valuable consideration. This means that We may have received some kind of benefit in return for sharing personal information, but not necessarily a monetary benefit.
-
-Please note that the categories listed below are those defined in the CCPA. This does not mean that all examples of that category of personal information were in fact sold, but reflects our good faith belief to the best of our knowledge that some of that information from the applicable category may be and may have been shared for value in return.
-
-We may sell and may have sold in the last twelve (12) months the following categories of personal information:
-
-* Category A: Identifiers
-* Category B: Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))
-* Category D: Commercial information
-* Category F: Internet or other similar network activity
 
 ### Share of Personal Information
 We may share Your personal information identified in the above categories with the following categories of third parties:
